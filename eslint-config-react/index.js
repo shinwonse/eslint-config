@@ -15,5 +15,7 @@ module.exports = {
     'sort-destructure-keys/sort-destructure-keys': 'error',
 
     'sort-keys-fix/sort-keys-fix': 'error',
+
+    'react/react-in-jsx-scope': 'off',
   },
 };
