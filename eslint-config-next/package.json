@@ -1,12 +1,12 @@
 {
   "name": "@wonse/eslint-config-next",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "eslint config package for next.js project",
   "main": "index.js",
   "author": "shinwonse",
   "license": "ISC",
   "dependencies": {
-    "@wonse/eslint-config-react": "^1.0.5",
+    "@wonse/eslint-config-react": "^1.0.6",
     "eslint-config-next": "^14.2.4"
   }
 }
